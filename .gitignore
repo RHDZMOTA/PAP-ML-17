@@ -104,3 +104,6 @@ venv.bak/
 
 # Temporal dir
 temp/
+.csv
+data/
+.idea/

@@ -1,0 +1,3 @@
+[submodule "HW02/quanta"]
+	path = HW02/quanta
+	url = git@github.com:mxquants/quanta.git
